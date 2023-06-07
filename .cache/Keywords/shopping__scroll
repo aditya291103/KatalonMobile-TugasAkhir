@@ -1,0 +1,56 @@
+{
+  "keywordFileContentHash": "40A3760DD939AD4CD6700FE9567774D0",
+  "keywordClasses": [
+    {
+      "name": "shopping.scroll",
+      "keywordMethods": [
+        {
+          "name": "swipeUp",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "swipeUpSlightly",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "swipeUpSlightly2",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "swipeBrowser",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "swipeYear",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "swipeDate",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "swipeMonth",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "swipeUp2",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "down",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
